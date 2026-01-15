@@ -85,6 +85,24 @@ section h3 {
   color: #555;
 }
 
+.participants-list {
+  background-color: #f0f7ff;
+  padding: 12px 20px;
+  border-left: 3px solid #0066cc;
+  border-radius: 3px;
+  margin-top: 8px;
+}
+
+.participants-list li {
+  color: #1a237e;
+  font-size: 0.95em;
+}
+
+.participants-list em {
+  color: #999;
+  font-style: italic;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
